@@ -40,7 +40,7 @@ if ($status === false) {
             </header>
 
             <main class="main">
-                <form class="form" method="post" action="insert.php">
+                <form class="form" method="POST" action="update.php">
                     <div class="jumbotron">
                         <fieldset>
                             <legend>データ登録</legend>
